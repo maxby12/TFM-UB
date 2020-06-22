@@ -4,7 +4,7 @@ Thesis title: Human explainability through an auxiliary Neural Network
 
 This repository stores the final code implemented for the research project as well as its memory, the presentation and all the disclosable datasets.
 
-Code implemented with Python 3, Tensorflow v2.0, Keras v2.3.0 and PyTorch v1.5.0
+Code implemented with Python 3, Tensorflow v2.0, Keras v2.3.0 and PyTorch v1.5.0 and the Google Collaboratory environment.
 
 Birds dataset source: http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 
